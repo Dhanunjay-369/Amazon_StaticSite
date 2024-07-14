@@ -1,1 +1,1 @@
-Assets folder contains all the images required for this web page.
+Assets folder contains all the images required for this web page!
